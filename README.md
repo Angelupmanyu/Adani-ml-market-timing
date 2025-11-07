@@ -67,7 +67,7 @@ To avoid *future knowledge leakage*, predictions are **shifted forward by one da
 This ensures **realistic** performance measurement.
 | ML Strategy vs Buy & Hold | Feature Importance |
 |--------------------------|-------------------|
-| ![Performance](images1/Testing_model.png) | ![Feature Importance](images1/Indicators.png) |  ![Signals](images/Model_signals.png) |
+| ![Performance](images1/Testing_model.png) | ![Feature Importance](images1/Indicators.png) |  ![Signals](images1/Model_signals.png) |
 
 
 
